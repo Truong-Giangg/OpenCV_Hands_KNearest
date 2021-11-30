@@ -1,0 +1,3 @@
+rootProject.name = "OpenCV_KNearest_handsDetect"
+include ':app'
+include ':openCVLibrary310'
